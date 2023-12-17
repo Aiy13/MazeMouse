@@ -1,3 +1,5 @@
+//2023/6
+//java课设，仍存有bug，自动遍历走到终点会有报错，可忽略
 import javafx.animation.PauseTransition;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
